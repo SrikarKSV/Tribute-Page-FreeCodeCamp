@@ -32,3 +32,25 @@ body {
 	margin-top: 1.3rem;
 	color: #424874;
 }
+
+#img-div {
+	background: #f4eeff;
+	width: 95%;
+	margin: 1.2rem auto;
+	border-radius: 7px;
+	padding: 3rem 1rem 1rem 1rem;
+	display: grid;
+	grid-template-columns: 1fr;
+	row-gap: 2rem;
+	justify-items: center;
+}
+
+#image {
+	max-width: 60vw;
+	border-radius: 4px;
+	display: block;
+}
+
+#img-caption {
+	color: #131b53;
+}
