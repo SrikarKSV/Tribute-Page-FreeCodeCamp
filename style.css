@@ -75,3 +75,25 @@ li {
 	margin-bottom: 1rem;
 	color: #282c4b;
 }
+
+blockquote {
+	max-width: 60%;
+	margin: auto;
+	padding: 2rem;
+}
+
+.fa-quote-left {
+	font-size: 3rem;
+}
+
+#quote {
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.8rem;
+	padding: 1rem;
+}
+#external-link {
+	font-weight: 500;
+	font-size: 1.1rem;
+	padding: 2rem;
+	padding-bottom: 4rem;
+}
