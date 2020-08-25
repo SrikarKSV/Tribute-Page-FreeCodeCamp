@@ -97,3 +97,23 @@ blockquote {
 	padding: 2rem;
 	padding-bottom: 4rem;
 }
+
+@media screen and (max-width: 700px) {
+	#img-caption {
+		font-size: 0.8rem;
+	}
+}
+@media screen and (max-width: 500px) {
+	#image {
+		max-width: 80vw;
+	}
+	li {
+		line-height: 1.7rem;
+	}
+	blockquote {
+		max-width: 90%;
+	}
+	#external-link {
+		font-size: 0.9rem;
+	}
+}
