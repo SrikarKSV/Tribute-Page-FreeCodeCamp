@@ -54,3 +54,24 @@ body {
 #img-caption {
 	color: #131b53;
 }
+#tribute-info {
+	max-width: 80%;
+	margin: auto;
+}
+
+h2 {
+	padding: 2rem;
+	color: #302b53;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3rem;
+	font-weight: 600;
+}
+
+li {
+	line-height: 2rem;
+	max-width: 60%;
+	margin: auto;
+	text-align: left;
+	margin-bottom: 1rem;
+	color: #282c4b;
+}
